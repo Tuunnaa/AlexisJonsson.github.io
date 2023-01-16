@@ -10,6 +10,8 @@
 
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
 @import url("https://AlexisJonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.source.css");
+@import url("https://github.com/Tuunnaa/AlexisJonsson.github.io/blob/master/BetterDiscordAddons/Themes/StandardWindowbarSize.theme.css");
+@import url("https://github.com/Tuunnaa/AlexisJonsson.github.io/blob/master/BetterDiscordAddons/Themes/font/dash2space.ttf");
 
 :root {
     /*My Account Button*/
@@ -24,4 +26,5 @@
 
     /*Server Info Bar*/
     --app-info-bar-height: 48px; /* Height for container that holds the server name, info, actions and search */
+    --font: 'dash2space';
 }
